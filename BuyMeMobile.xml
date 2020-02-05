@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config> 
+  <appPackage>il.co.mintapp.buyme</appPackage>
+  <appActivity>il.co.mintapp.buyme.activities.common.SplashScreen</appActivity>
+  <reportPath>C:\Users\Inbal\Desktop\QA\BuyMeMobileTest\BuyMeMobileReport.html</reportPath>
+</config>
